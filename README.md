@@ -8,6 +8,6 @@ A more detailed description of the theory and the software appears at my website
 
 Possible improvements:
 
-*Include buttons for the orbit of every planet in the solar system.
-*Create animation of the entire solar system.
-*Include perturbative effects of other planet.
+* Include buttons for the orbit of every planet in the solar system.
+* Create animation of the entire solar system.
+* Include perturbative effects of other planet.
